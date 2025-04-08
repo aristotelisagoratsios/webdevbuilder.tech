@@ -1,0 +1,5 @@
+
+--primary-color: rgba(255, 188, 0 , 0.6);
+--secondary-color: rgba(249, 180, 45, 4);
+--overlay-color: rgba(91, 87, 84, 0.95 );
+--menu-speed: 0.75s;

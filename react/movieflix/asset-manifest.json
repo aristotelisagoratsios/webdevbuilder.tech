@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react/movieflix/static/css/main.24dda8ae.css",
+    "main.js": "/react/movieflix/static/js/main.7996af9f.js",
+    "static/js/787.752128a1.chunk.js": "/react/movieflix/static/js/787.752128a1.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react/movieflix/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/react/movieflix/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react/movieflix/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react/movieflix/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react/movieflix/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/Register.svg": "/react/movieflix/static/media/Register.5a36802a6725756de2f05f0b64770d64.svg",
+    "static/media/login.svg": "/react/movieflix/static/media/login.f3cee79320e16c7a086f1771b983169e.svg",
+    "static/media/404.svg": "/react/movieflix/static/media/404.50cd8d9c456b007c1e56cf94366636c7.svg",
+    "static/media/Error2.svg": "/react/movieflix/static/media/Error2.baa3ea2e2489d65af2a6d931bb063353.svg",
+    "index.html": "/react/movieflix/index.html",
+    "static/media/svg": "/react/movieflix/static/media/2a0bc34f2fdf6d6b.6e0f8a48a90f41998086.svg",
+    "main.24dda8ae.css.map": "/react/movieflix/static/css/main.24dda8ae.css.map",
+    "main.7996af9f.js.map": "/react/movieflix/static/js/main.7996af9f.js.map",
+    "787.752128a1.chunk.js.map": "/react/movieflix/static/js/787.752128a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24dda8ae.css",
+    "static/js/main.7996af9f.js"
+  ]
+}

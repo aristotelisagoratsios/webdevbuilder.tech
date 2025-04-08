@@ -1,0 +1,22 @@
+[07/Apr/2021:14:07:23] (I): WordPress Instance Info:
+[07/Apr/2021:14:07:23] (I): Home URL : http://webdevbuilder.tech/wptest
+[07/Apr/2021:14:07:23] (I): Site URL : http://webdevbuilder.tech/wptest
+[07/Apr/2021:14:07:23] (I): WordPress Version : 5.7
+[07/Apr/2021:14:07:23] (I): Onboarding Version : 1.1.6
+[07/Apr/2021:14:07:23] (I): Multisite : No
+[07/Apr/2021:14:07:23] (I): Server Info : Apache
+[07/Apr/2021:14:07:23] (I): PHP Version : 7.3.27
+[07/Apr/2021:14:07:23] (I): HTTPS : No
+[07/Apr/2021:14:07:23] (I): PHP Max Execution Time : 300
+[07/Apr/2021:14:07:23] (I): PHP Max Input Vars : 2500
+[07/Apr/2021:14:07:23] (I): Max Upload Size : 134217728
+[07/Apr/2021:14:07:23] (I): Plugins:
+[07/Apr/2021:14:07:23] (I): [PLUGIN] Elementor : v3.1.4 (Elementor.com)
+[07/Apr/2021:14:07:23] (I): [PLUGIN] HurryTimer : v2.5.2 (Nabil Lemsieh)
+[07/Apr/2021:14:07:23] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.6.3 (ThemeIsle)
+[07/Apr/2021:14:07:23] (I): [PLUGIN] Post Views Counter : v1.3.4 (Digital Factory)
+[07/Apr/2021:14:07:23] (I): [PLUGIN] Templates Patterns Collection : v1.1.6 (ThemeIsle)
+[07/Apr/2021:14:07:23] (I): [PLUGIN] Orbit Fox Companion : v2.10.4 (Themeisle)
+[07/Apr/2021:14:07:23] (I): [PLUGIN] WooCommerce : v5.1.0 (Automattic)
+[07/Apr/2021:14:07:23] (I): [PLUGIN] WP Mail SMTP : v2.7.0 (WPForms)
+[07/Apr/2021:14:07:23] (I): [PLUGIN] WPForms Lite : v1.6.6 (WPForms)

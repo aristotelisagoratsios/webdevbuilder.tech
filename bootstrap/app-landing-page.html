@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+	
+  <script src="https://use.fontawesome.com/d1a58101ad.js"></script>
+
+  
+  <title> App Landing Page </title>
+
+
+      <style type="text/css">
+
+	
+	     .jumbotron {
+		    background-image:url(background.jpg);
+			text-align:center;
+			padding: 4rem 2rem;
+			margin-bottom: 2rem;
+			background-color: var(--bs-light);
+			border-radius: .3rem; 
+                    }
+			        }
+			
+			body {
+				text-align: center;
+				position:relative;
+				}
+       
+				form {
+				display: inline-block;
+	       			}
+   
+			.btn {
+				margin-top:-5px;
+				margin-left:2px;
+				}
+
+			#inlineFormInputGroup {
+								width:300px;
+								}				
+								
+			.card-img-top {
+			             width:100%;
+				         }
+						 
+            #appSummary {
+			           margin-bottom:30px;
+					   text-align:center;
+			            }	
+
+           #appStoreIcon {
+		                 width:200px;	   
+		                 }	
+            #footer {
+			        background-color:#40E0D0;
+					margin-top:150px;
+					padding-top:115px;
+					text-align:center;
+					height:450px;
+					}					 
+			
+	  </style>
+
+  </head>
+  
+    
+   <body data-bs-spy="scroll" data-bs-target="#navbar" data-bs-offset="0">
+    
+<nav class="navbar navbar-expand-lg sticky-top navbar-light bg-info" id="navbar">
+    <div class="container-fluid">
+       <a class="navbar-brand" href="#">My App</a>
+     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+         <span class="navbar-toggler-icon"></span>
+     </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" aria-current="page" href="#jumbotron">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#footer" tabindex="-1" aria-disabled="true">Download The App</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="email" placeholder="Email" aria-label="Email">
+		<input class="form-control me-2" type="password" placeholder="Password" aria-label="Password">
+        <button class="btn btn-success" type="submit">Login</button>
+     </form> 
+    </div>
+  </div>
+</nav>
+
+<div class="jumbotron" id="jumbotron">
+  <h1 class="display-4">My Awesome App!</h1>
+	<p class="lead">This is why YOU should download this fantastic app!</p>
+		<hr class="my-4">
+			<p> Want to know more? Join our mailing list!</p>
+  
+ <form>
+	<div >
+		<label class="visually-hidden" for="email">Email</label>
+			<div class="input-group">
+		    	<div class="input-group-text">@</div>
+			<input type="text" class="form-control" id="email" placeholder="Your email">
+		</div>
+	</div>
+ </form>
+      <button type="submit" class="btn btn-primary "> Sign Up </button>
+</div>
+
+<div class="container">
+   
+    <div class="row" id="appSummary">
+      <h1> Why This App Is Awesome </h1>
+	  <p class="lead"> Summary, once again, of your app's awesomeness </p>   
+    </div>
+</div>
+
+<div class="container" id="about">
+ <div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card h-100">
+   	<img src="apple.jpg" class="card-img-top" >
+      <div class="card-body">
+        <h5 class="card-title"> <i class="fa fa-apple" aria-hidden="true"></i> Card title</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+    <img src="apple2.jpg" class="card-img-top" >  
+      <div class="card-body">
+        <h5 class="card-title"> <i class="fa fa-grav" aria-hidden="true"></i> Card title</h5>
+        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card h-100">
+	<img src="apple3.jpg" class="card-img-top" >
+      <div class="card-body">
+        <h5 class="card-title"><i class="fa fa-university" aria-hidden="true"></i>Card title</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      </div>
+    </div>
+  </div>
+ </div>
+</div>
+
+<div id='footer'>
+ <div class="row"> 
+   <h2> Download the app </h2>
+    <p class="lead"> Really, why should I download this app?? </p>
+       <p> <a href=""> <img id="appStoreIcon" src="app-store-Icon.png"> </a></p>  
+ </div>
+</div>
+   
+	
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"> </script>
+	
+
+  </body>
+  
+</html>
